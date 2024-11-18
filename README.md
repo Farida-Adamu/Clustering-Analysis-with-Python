@@ -1,6 +1,6 @@
 # Clustering-Analysis-with-Python
 
-This is a group project from my masters degree
+This is a group project from  during my MSc at BSB
 
 Three data extracts containing staff skills, educational qualifications & job profile / grades were provided by pwc. The task is to cluster the samples provided, analyse, and present each cluster.*
 
